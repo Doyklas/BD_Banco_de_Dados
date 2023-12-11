@@ -1,4 +1,4 @@
-[15:05] ANNA GABRIELA MONTEIRO DA SILVA
+
 -- Lista de exercícios – Criação de Views
 
 -- 1. Crie uma view que liste o nome e número de telefone de todos os usuários.
